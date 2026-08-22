@@ -1,0 +1,132 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Blog | Making Complexity Invisible",
+  "description": "Connecting people, processes, applications, and data. Better orchestration. Less complexity. More focus on what matters.",
+  "home_page_url": "https://sebastien-anselment.github.io/",
+  "feed_url": "https://sebastien-anselment.github.io/feed.json",
+  "items": [
+    {
+      "id": "/blog/posts/2026/07/13/recover-deleted-or-overwritten-content-from-a-backup-content-database/",
+      "url": "https://sebastien-anselment.github.io/blog/posts/2026/07/13/recover-deleted-or-overwritten-content-from-a-backup-content-database/",
+      "title": "Recover Deleted or Overwritten Content from a Backup Content Database",
+      "summary": "This article explains how to temporarily restore and register an older WEBCON Content database in order to recover deleted or overwritten application objects when no *.bpe export is available. It covers the required SQL configuration changes, how to switch between Content databases in Designer Studio, and how to remove the temporary database entry after the recovery process is completed.",
+      "date_published": "2026-07-13T00:00:00.000Z",
+      "date_modified": "2026-07-13T00:00:00.000Z",
+      "tags": [
+        "WEBCON",
+        "content",
+        "database",
+        "restore",
+        "backup"
+      ]
+    },
+    {
+      "id": "/blog/posts/2026/03/24/data-source-with-all-workflows-with-on-start-cyclical/",
+      "url": "https://sebastien-anselment.github.io/blog/posts/2026/03/24/data-source-with-all-workflows-with-on-start-cyclical/",
+      "title": "Data Source with all Workflows with On Start (Cyclical)",
+      "summary": "This describes a solution that displays an overview in the Portal of all workflows with \"on start (cyclical)\" executions.",
+      "date_published": "2026-03-24T00:00:00.000Z",
+      "date_modified": "2026-03-24T00:00:00.000Z",
+      "tags": [
+        "WEBCON",
+        "global action",
+        "automation",
+        "cycle",
+        "data table",
+        "job"
+      ]
+    },
+    {
+      "id": "/blog/posts/2026/03/16/multiple-windows-shortcuts-to-designer-studio/",
+      "url": "https://sebastien-anselment.github.io/blog/posts/2026/03/16/multiple-windows-shortcuts-to-designer-studio/",
+      "title": "Multiple Windows Shortcuts to Designer Studio",
+      "summary": "Create multiple windows shortcuts to start Designer Studio in different environments with different versions.",
+      "date_published": "2026-03-16T00:00:00.000Z",
+      "date_modified": "2026-03-16T00:00:00.000Z",
+      "tags": [
+        "WEBCON",
+        "designer studio",
+        "shortcut",
+        "version",
+        "environment"
+      ]
+    },
+    {
+      "id": "/blog/posts/2025/09/01/webcon-integration-with-microsoft-fabric-sql-analytics-endpoint/",
+      "url": "https://sebastien-anselment.github.io/blog/posts/2025/09/01/webcon-integration-with-microsoft-fabric-sql-analytics-endpoint/",
+      "title": "WEBCON Integration with Microsoft Fabric SQL Analytics Endpoint",
+      "summary": "Learn how to connect a Microsoft Fabric Lakehouse SQL analytics endpoint to WEBCON using a Microsoft Entra service principal.",
+      "date_published": "2025-09-01T00:00:00.000Z",
+      "date_modified": "2025-09-01T00:00:00.000Z",
+      "tags": [
+        "WEBCON",
+        "Microsoft",
+        "MS",
+        "Microsoft",
+        "Fabric",
+        "lakehouse",
+        "table",
+        "SQL",
+        "analytics",
+        "endpoint",
+        "connection",
+        "data source",
+        "entra",
+        "app",
+        "service principal",
+        "client",
+        "secret"
+      ]
+    },
+    {
+      "id": "/blog/posts/2025/07/23/openstreetmap-integration-in-portal-with-leaflet/",
+      "url": "https://sebastien-anselment.github.io/blog/posts/2025/07/23/openstreetmap-integration-in-portal-with-leaflet/",
+      "title": "OpenStreetMap Integration in Portal with Leaflet",
+      "summary": "How to integrate OpenStreetMap to the WEBCON portal easily with Leaflet to gain functionality in processes for e.g. point of interests search, navigation, display in maps.",
+      "date_published": "2025-07-23T00:00:00.000Z",
+      "date_modified": "2025-07-23T00:00:00.000Z",
+      "tags": [
+        "WEBCON",
+        "form",
+        "field",
+        "map",
+        "openstreetmap",
+        "poi",
+        "point of interest",
+        "javascript",
+        "leaflet",
+        "integration"
+      ]
+    },
+    {
+      "id": "/blog/posts/2025/07/22/powershell-via-rest-api-endpoints-with-support-for-return-of-parameters/",
+      "url": "https://sebastien-anselment.github.io/blog/posts/2025/07/22/powershell-via-rest-api-endpoints-with-support-for-return-of-parameters/",
+      "title": "Powershell via Rest Api Endpoints with Support for Return of Parameters",
+      "summary": "How to use \"PowerShell Universal\" (PSU) as a solution to return an object after an invoke of a PowerShell script.ö",
+      "date_published": "2025-07-22T00:00:00.000Z",
+      "date_modified": "2025-07-22T00:00:00.000Z",
+      "tags": [
+        "WEBCON",
+        "powershell",
+        "rest",
+        "api",
+        "return"
+      ]
+    },
+    {
+      "id": "/blog/posts/2025/06/30/disable-unsaved-data-alert-when-leaving-a-form/",
+      "url": "https://sebastien-anselment.github.io/blog/posts/2025/06/30/disable-unsaved-data-alert-when-leaving-a-form/",
+      "title": "Disable \"Unsaved Data\" Alert When Leaving A Form",
+      "summary": "How to disable the alert window if the form is dirty because it is containing unsaved data changes.",
+      "date_published": "2025-06-30T00:00:00.000Z",
+      "date_modified": "2025-06-30T00:00:00.000Z",
+      "tags": [
+        "WEBCON",
+        "dirty",
+        "form",
+        "unsaved",
+        "data"
+      ]
+    }
+  ]
+}
